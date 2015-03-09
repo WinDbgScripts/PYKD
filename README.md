@@ -7,8 +7,7 @@ In this repository I will be adding any scripts written in Python and meant for 
 PYKD Scripts
 -------
 
-The following markups are supported.  The dependencies listed are required if
-you wish to run the library. You can also run `script/bootstrap` to fetch them all.
+These dependencies are needed to use these scripts in WinDBG.
 
 * [Python](https://www.python.org/) -- I Installed this directly into the Debugger base directory, but you can install where you would like.  Just make sure the python executable is in the search path.
 * [PYKD](https://pykd.codeplex.com/) -- Be sure to follow the instructions as stated on the site.
