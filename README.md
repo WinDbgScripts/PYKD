@@ -30,7 +30,3 @@ Script Descriptions
 -----------------------
 	findroots.py - This script takes a Generation and Object Type Name as inputs.  It will scan the given generation for the type of object you specified and return only the items that are rooted and give you a clickable link back.  You can further specify a specific size also to narrow down the objects your trying to find that may still be rooted.
 
-Contributing
-------------
-
-See [Contributing](CONTRIBUTING.md)
